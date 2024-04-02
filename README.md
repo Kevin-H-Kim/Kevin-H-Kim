@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kevin-H-Kim
+- 👋 Hi, I’m @Kevin-H-Kim (Kim Hojun)
 - 👀 I’m interested in Programming and Designing 
 - 🌱 I’m currently learning Electrical and Electronics Engineering
 - 💞️ I’m looking to collaborate on Unity
