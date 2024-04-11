@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Electrical and Electronics Engineering
 - 💞️ I’m looking to collaborate on Unity
 - 📫 How to reach me ra0217@naver.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have studied Mechanical Engineering, Logistics previously
 
 <!---
