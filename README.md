@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Unity
 - 📫 How to reach me ra0217@naver.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I have studied Mechanical Engineering, Computer Science and Engineering previously
+- ⚡ Fun fact: I have studied Mechanical Engineering, Logistics previously
 
 <!---
 Kevin-H-Kim/Kevin-H-Kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
